@@ -1,0 +1,83 @@
+{
+  "home": {
+    "heroTitle": "Walks. Wags. Woofs.",
+    "heroSubtitle": "Five-star licensed dog care in Chester — walks, training, boarding & daycare, delivered with a whole lot of love.",
+    "introTitle": "Your dog's new favourite humans",
+    "intro": "We're a DEFRA-approved, 5-star licensed pack of dog people. From enriched adventures to cosy sleepovers, your best friend gets cared for like one of our own.",
+    "ctaText": "Book a meet & greet",
+    "services": [
+      {
+        "emoji": "🐾",
+        "title": "Enriched Walks",
+        "text": "1:2:1 walks packed with scentwork, running, games and brain-teasing fun."
+      },
+      {
+        "emoji": "🎓",
+        "title": "Training & Behaviour",
+        "text": "Qualified, kind, reward-based training — from bouncy pups to tricky habits."
+      },
+      {
+        "emoji": "🛏️",
+        "title": "Boarding & Daycare",
+        "text": "Licensed home boarding and doggy daycare. Sleepovers with the pack!"
+      },
+      {
+        "emoji": "🏠",
+        "title": "Pop-ins & Pet Sitting",
+        "text": "Perfect for pups, seniors, cats, chickens — even the odd llama."
+      },
+      {
+        "emoji": "💍",
+        "title": "Weddings & Events",
+        "text": "Doggy chaperone service with tuxedo & flower collar hire. Yes, really."
+      },
+      {
+        "emoji": "🌿",
+        "title": "Keep Me Calm",
+        "text": "Natural organic enrichment treats — calm, happy, yum!"
+      }
+    ]
+  },
+  "about": {
+    "title": "About the pack",
+    "body": "The Woof Woof Woof Club is a fully qualified, professional dog care service based in Chester.\n\nWe're DEFRA approved and hold a 5-star licence under Cheshire West & Chester (19/AB/119). We're DBS checked, fully insured, affiliated with Pro Dog Trainer and gold-accredited by NARPS UK.\n\nWhether your dog needs an adventure walk, a training plan, a sleepover or just a friendly face popping in — we treat every animal like family. Dogs, cats, chickens and the occasional llama all welcome.",
+    "badges": [
+      "⭐⭐⭐⭐⭐ DEFRA 5-Star Licensed",
+      "✅ DBS Checked",
+      "🛡️ Fully Insured",
+      "🎓 Pro Dog Trainer Affiliated",
+      "🥇 NARPS UK Gold"
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Sarah & Biscuit",
+      "text": "Biscuit starts wagging the second we turn onto their street. The walks are clearly the highlight of his week!",
+      "dog": "Golden Retriever"
+    },
+    {
+      "name": "Mark T.",
+      "text": "The training work transformed our rescue from a nervous wreck into a confident, happy boy. Can't recommend enough.",
+      "dog": "Luna, Collie cross"
+    },
+    {
+      "name": "The Patel family",
+      "text": "Boarding here is like sending your dog on their own holiday. The photo updates made our week away so much easier.",
+      "dog": "Pickle, Dachshund"
+    },
+    {
+      "name": "Jenny W.",
+      "text": "They even look after our chickens when we're away. Nothing is too much trouble — genuinely lovely people.",
+      "dog": "Two dogs & four hens"
+    }
+  ],
+  "gallery": [],
+  "contact": {
+    "phone": "07938 074001",
+    "email": "info@woofwoofwoof.club",
+    "location": "Chester, UK",
+    "facebook": "https://www.facebook.com/woofwoofwoofclub/",
+    "linkedin": "https://uk.linkedin.com/pub/samantha-evans/17/5b9/157",
+    "blurb": "Your pet is family — and we get that. Give us a bark, we're always happy to chat about what your furry (or feathered) friend needs."
+  }
+}
