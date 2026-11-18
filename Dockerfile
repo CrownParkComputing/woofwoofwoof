@@ -14,7 +14,6 @@ COPY package.json package-lock.json ./
 RUN npm ci --omit=dev && npm cache clean --force
 COPY --from=build /app/.next ./.next
 COPY --from=build /app/data ./data
-COPY --from=build /app/public ./public
 COPY --from=build /app/next.config.mjs ./
 EXPOSE 3000
 CMD ["npm", "start"]
